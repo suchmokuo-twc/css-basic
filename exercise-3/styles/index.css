@@ -99,3 +99,53 @@ p {
     border: 1px solid red;
     color: red;
 }
+
+#banner {
+    height: 350px;
+}
+
+h1 {
+    border: 3px solid white;
+}
+
+h3 {
+    margin: 30px 20px;
+    padding: 20px 30px;
+    border: 1px dotted red;
+    border-radius: 5px;
+}
+
+.navigation li {
+    padding: 10px;
+    list-style: none;
+}
+
+.share a {
+    margin: 10px;
+    padding: 14px;
+}
+
+p {
+    margin-top: 40px;
+}
+
+.pull-quote {
+    margin: 0 auto;
+    width: 400px;
+}
+
+#main {
+    margin: 0 auto;
+    width: 500px;
+    height: 800px;
+    overflow-y: auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.global {
+    visibility: hidden;
+}
